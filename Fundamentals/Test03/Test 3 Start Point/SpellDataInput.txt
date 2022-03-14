@@ -1,0 +1,7 @@
+Magic 30 1
+Shield 25 10
+Enchant 12 4
+Transfigure 4 5
+Charm 60 9
+Curse  120 3
+Heal 2 1
