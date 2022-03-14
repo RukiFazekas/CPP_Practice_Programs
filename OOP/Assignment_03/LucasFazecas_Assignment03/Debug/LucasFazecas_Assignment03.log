@@ -1,0 +1,7 @@
+﻿  CharacterType.cpp
+  main.cpp
+E:\Backup_Desktop\Niagara_College\OOP\Assignment_03\LucasFazecas_Assignment03\LucasFazecas_Assignment03\FighterCharacterType.h(12): warning C4091: 'static ': ignored on left of 'FighterCharacterType::WeaponType' when no variable is declared
+E:\Backup_Desktop\Niagara_College\OOP\Assignment_03\LucasFazecas_Assignment03\LucasFazecas_Assignment03\MageCharacterType.h(13): warning C4091: 'static ': ignored on left of 'MageCharacterType::WeaponType' when no variable is declared
+E:\Backup_Desktop\Niagara_College\OOP\Assignment_03\LucasFazecas_Assignment03\LucasFazecas_Assignment03\main.cpp(19,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  LucasFazecas_Assignment03.vcxproj -> E:\Backup_Desktop\Niagara_College\OOP\Assignment_03\LucasFazecas_Assignment03\Debug\LucasFazecas_Assignment03.exe

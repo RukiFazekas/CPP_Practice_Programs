@@ -1,0 +1,7 @@
+﻿  athleteType.cpp
+D:\OneDrive - NC\Desktop\Test01\Part_B\LucasFazecas_Test01_PartB\LucasFazecas_Test01_PartB\athleteType.h(15): warning C4091: 'static ': ignored on left of 'athleteType::sportType' when no variable is declared
+  main.cpp
+D:\OneDrive - NC\Desktop\Test01\Part_B\LucasFazecas_Test01_PartB\LucasFazecas_Test01_PartB\athleteType.h(15): warning C4091: 'static ': ignored on left of 'athleteType::sportType' when no variable is declared
+  personType.cpp
+  Generating Code...
+  LucasFazecas_Test01_PartB.vcxproj -> D:\OneDrive - NC\Desktop\Test01\Part_B\LucasFazecas_Test01_PartB\Debug\LucasFazecas_Test01_PartB.exe

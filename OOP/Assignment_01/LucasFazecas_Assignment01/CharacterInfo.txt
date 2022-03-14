@@ -1,0 +1,4 @@
+Squire M 100
+Mage R 60
+Alchemist M 70
+Healer R 55
